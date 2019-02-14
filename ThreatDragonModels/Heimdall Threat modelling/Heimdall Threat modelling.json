@@ -72,7 +72,7 @@
               },
               "position": {
                 "x": 379,
-                "y": 144
+                "y": 123
               },
               "angle": 0,
               "id": "0036cda3-55c3-44e8-aac8-1deac0d208a2",
@@ -124,7 +124,7 @@
                 "height": 80
               },
               "position": {
-                "x": 429,
+                "x": 460,
                 "y": 1
               },
               "angle": 0,
@@ -525,19 +525,14 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 997,
-                "y": 209
+                "x": 344,
+                "y": 76
               },
               "target": {
-                "x": 628,
-                "y": 197
+                "x": 562,
+                "y": 137
               },
-              "vertices": [
-                {
-                  "x": 873,
-                  "y": 203
-                }
-              ],
+              "vertices": [],
               "id": "4b04ee0c-ca4c-40fa-99cd-969a2eb794ca",
               "z": 18,
               "attrs": {}
@@ -600,7 +595,15 @@
                 }
               ],
               "z": 20,
-              "attrs": {}
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
