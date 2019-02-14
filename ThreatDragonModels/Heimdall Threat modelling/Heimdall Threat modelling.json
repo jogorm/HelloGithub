@@ -124,7 +124,7 @@
                 "height": 80
               },
               "position": {
-                "x": 460,
+                "x": 458,
                 "y": 1
               },
               "angle": 0,
@@ -202,8 +202,8 @@
                 "height": 80
               },
               "position": {
-                "x": 241,
-                "y": 417
+                "x": 143,
+                "y": 452
               },
               "angle": 0,
               "id": "699dd9bb-5d3b-490a-8c99-dee0431094b5",
@@ -368,7 +368,12 @@
               "target": {
                 "id": "c59e4cfc-ab05-4241-b8db-56db18ff10be"
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 284,
+                  "y": 246
+                }
+              ],
               "id": "04966594-2b49-4065-8f15-8fe232cd2ca3",
               "labels": [
                 {
